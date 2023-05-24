@@ -1,0 +1,7 @@
+'sysbp' 'diabp' 'meanbp' 'resprate' 'heartrate' 'spo2_pulsoxy' 'tempc'
+ 'cardiacoutput' 'tvset' 'tvobserved' 'tvspontaneous' 'peakinsppressure'
+ 'totalpeeplevel' 'o2flow' 'fio2' 'albumin' 'bands' 'bicarbonate'
+ 'bilirubin' 'creatinine' 'chloride' 'glucose' 'hematocrit' 'hemoglobin'
+ 'lactate' 'platelet' 'potassium' 'ptt' 'inr' 'pt' 'sodium' 'bun' 'wbc'
+ 'creatinekinase' 'ck_mb' 'fibrinogen' 'ldh' 'magnesium' 'calcium_free'
+ 'po2_bloodgas' 'ph_bloodgas' 'pco2_bloodgas' 'so2_bloodgas' 'troponin_t'
